@@ -5,11 +5,8 @@ Hola 👋, soy **Desarrollador Web Trainne** y estudiante de la carrera de **Ing
 ## Habilidades y/o conocimientos 📚
 
 * Dominio de lenguajes de programación front-end: HTML, CSS y JavaScript.
-
 * Frameworks CSS (Tailwind CSS, Boostrap CSS).
-
 * Herramientas de desarrollo web: Git, GitHub, NPM, Webpack.
-
 * Capacidad para aprender y adaptarse a nuevas tecnologías.
 
 ## Stack
