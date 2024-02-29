@@ -1,6 +1,6 @@
 # Maykel Cintron 
 
-Hola 👋, soy **Desarrollador Web Trainner** y estudiante de la carrera de **Ingenieria en Sistemas 💻**.
+Hola 👋, soy **Desarrollador Web Trainne** y estudiante de la carrera de **Ingenieria en Sistemas 💻**.
 
 ## Habilidades y/o conocimientos 📚
 
