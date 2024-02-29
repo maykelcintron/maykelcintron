@@ -22,4 +22,4 @@ Actualmente me encuentro aprendiendo sobre React(JS) y Ruby, aunque mi stack de 
 ## Contacto
 
 * LinkedIn : [Perfil](https://www.linkedin.com/in/maykel-cintron/ "Visita mi perfil de LinkedIn")
-* Correo : [@MaykelCintron]("mailto:maykelcintron211000@gmail.com" "Correo")
+* Correo : [Correo Gmail]("mailto:maykelcintron211000@gmail.com" "Correo")
