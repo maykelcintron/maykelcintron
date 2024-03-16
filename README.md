@@ -1,4 +1,4 @@
-# Maykel Cintron 
+<img src="/Banner web horizontal sale 50%25 OFF mueblería y deco minimalista blanco.png">
 
 Hola 👋, soy **Desarrollador Web Trainne** y estudiante de la carrera de **Ingenieria en Sistemas 💻**.
 
