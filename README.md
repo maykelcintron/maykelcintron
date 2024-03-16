@@ -1,4 +1,4 @@
-<img src="/Banner web horizontal sale 50%25 OFF mueblería y deco minimalista blanco.png">
+<img src="Banner web horizontal sale 50%25 OFF mueblería y deco minimalista blanco.png" width=100% height="30%">
 
 Hola 👋, soy **Desarrollador Web Trainne** y estudiante de la carrera de **Ingenieria en Sistemas 💻**.
 
@@ -22,4 +22,3 @@ Actualmente me encuentro aprendiendo sobre React(JS) y Ruby, aunque mi stack de 
 ## Contacto
 
 * LinkedIn : [Perfil](https://www.linkedin.com/in/maykel-cintron/ "Visita mi perfil de LinkedIn")
-* Correo : [Correo Gmail]("mailto:maykelcintron211000@gmail.com" "Correo")
