@@ -1,5 +1,3 @@
-<img src="Banner web horizontal sale 50%25 OFF mueblería y deco minimalista blanco.png" width=100% height="400">
-
 Hola 👋, soy **Desarrollador Web Trainne** y estudiante de la carrera de **Ingenieria en Sistemas 💻**.
 
 ## Habilidades y/o conocimientos 📚
