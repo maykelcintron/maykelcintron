@@ -2,10 +2,12 @@ Hola 👋, soy **Desarrollador Web FullStack** y estudiante de la carrera de **I
 
 ## Habilidades y/o conocimientos 📚
 
-* Dominio de lenguajes de programación frontend: HTML, CSS, JavaScript, TypeScript, React.
-* Dominio de tecnologias y lenguajes de programación backend: Node JS, Python, Django, SQL.
+* Dominio de lenguajes de programación frontend: HTML, CSS, JavaScript, TypeScript.
+* Dominio de lenguajes de programación backend: Node JS, Python, SQL.
+* Libreria JS: React.
 * Frameworks CSS (Tailwind CSS, Boostrap CSS).
-* Preprocesadores (Sass).
+* Preprocesadores CSS (Sass).
+* Frameworks Backend (Express, Django).
 * Motores de Bases de Datos: MySQL, PostgreSQL, Mongo DB.
 * Herramientas de desarrollo web: Git, GitHub, NPM, Webpack.
 * Capacidad para aprender y adaptarse a nuevas tecnologías.
