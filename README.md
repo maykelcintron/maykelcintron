@@ -1,5 +1,6 @@
 Hola 👋, soy **Desarrollador Web FullStack** y estudiante de la carrera de **Ingenieria en Sistemas 💻**.
 
+
 ## Habilidades y/o conocimientos 📚
 
 * Dominio de lenguajes de programación frontend: HTML, CSS, JavaScript, TypeScript.
@@ -27,5 +28,12 @@ Hola 👋, soy **Desarrollador Web FullStack** y estudiante de la carrera de **I
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![Mongo DB](https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor&labelColor=101010)]()
 
+## Estadisticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maykelcintron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maykelcintron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ## Contacto
 [![Linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor&labelColor=101010)](https://www.linkedin.com/in/maykel-cintron/ "Visita mi perfil de LinkedIn")
+
