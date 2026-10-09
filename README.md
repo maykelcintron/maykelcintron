@@ -1,9 +1,9 @@
 ## Stack
 
-[![Ethereum](https://img.shields.io/badge/Ethereum-3D3350?style=for-the-badge&logo=Ethereum&logoColor&labelColor=3D3350)]()
-[![Solidity](https://img.shields.io/badge/solidity-3D3350?style=for-the-badge&logo=solidity&logoColor&labelColor=3D3350)]()
-[![Rust](https://img.shields.io/badge/Rust-3D3350?style=for-the-badge&logo=Rust&logoColor&labelColor=3D3350)]()
-[![Solana](https://img.shields.io/badge/solana-3D3350?style=for-the-badge&logo=solana&logoColor&labelColor=3D3350)]()
+[![Ethereum](https://img.shields.io/badge/Ethereum-F5F5F5?style=for-the-badge&logo=Ethereum&logoColor&labelColor=3D3350)]()
+[![Solidity](https://img.shields.io/badge/solidity-F5F5F5?style=for-the-badge&logo=solidity&logoColor&labelColor=3D3350)]()
+[![Rust](https://img.shields.io/badge/Rust-F5F5F5?style=for-the-badge&logo=Rust&logoColor&labelColor=3D3350)]()
+[![Solana](https://img.shields.io/badge/solana-9945FF?style=for-the-badge&logo=solana&logoColor&labelColor=3D3350)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=telow&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=101010)]()
 [![React](https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor&labelColor=101010)]()
@@ -24,4 +24,4 @@
 </div>
 
 ## Contact
-[![Linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor&labelColor=101010)](https://www.linkedin.com/in/maykel-cintron/ "Visit my LinkedIn profile")
+[![Linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor&labelColor=101010)](https://www.linkedin.com/in/maykel-cintron/)
